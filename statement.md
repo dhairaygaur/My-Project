@@ -1,10 +1,10 @@
-Problem Statement :
+1.) Problem Statement :
 In today’s digital life, many people use simple and weak passwords like "12345", "abcd", or their name. These passwords are easy to guess and unsafe. Because of this, accounts can be hacked easily.  
 To solve this problem, a tool is needed that can generate strong, random, and secure passwords automatically.
 
 This project creates a Password Generator that gives the user a strong password based on the length they want. The password includes uppercase letters, lowercase letters, numbers, and special characters. This helps users make safer accounts and protect their data.
 
-Scope of the Project :
+2.) Scope of the Project :
 This project is small but useful. It will help users quickly create strong passwords for any online account.  
 The scope includes:
 
@@ -16,7 +16,7 @@ The scope includes:
 
 This project focuses only on password creation, not storing or managing passwords.
 
-Target Users :
+3.) Target Users :
 This project is designed for:
 
 - Students who need quick strong passwords.
@@ -24,7 +24,7 @@ This project is designed for:
 - Anyone who wants a secure password for personal or professional use.
 - Beginners who want to understand how random password generators work.
 
-High-Level Features :
+4.) High-Level Features :
 This Password Generator includes the following main features:
 
 1. *User Input for Length*  
