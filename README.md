@@ -2,6 +2,7 @@
 
 
 2.) **Project Overview**
+
 I built this Random Password Generator to create secure and unpredictable passwords based on user-defined preferences. The project is simple, modular, and uses multiple Python files so that each responsibility is separated clearly. My goal was to design something lightweight, easy to understand, and useful for anyone who wants stronger password habits.
 
 
