@@ -1,43 +1,38 @@
-1.) **Problem Statement** :
-In today’s digital life, many people use simple and weak passwords like "12345", "abcd", or their name. These passwords are easy to guess and unsafe. Because of this, accounts can be hacked easily.  
-To solve this problem, a tool is needed that can generate strong, random, and secure passwords automatically.
+1.)  **Problem Statement**
 
-This project creates a Password Generator that gives the user a strong password based on the length they want. The password includes uppercase letters, lowercase letters, numbers, and special characters. This helps users make safer accounts and protect their data.
 
-2.) **Scope of the Project** :
-This project is small but useful. It will help users quickly create strong passwords for any online account.  
-The scope includes:
+In daily life, I noticed that many people (including myself earlier) tend to use weak or repeated passwords. This increases the risk of hacking, data theft, and personal account breaches. To solve this issue, I decided to develop a Random Password Generator that can instantly create strong, unpredictable, and secure passwords based on user preferences.
 
-- Generating random passwords based on user input.
-- Allowing users to choose the password length.
-- Making passwords that include letters, digits, and symbols.
-- Showing the generated password on the screen.
-- Simple and easy-to-understand code using Python.
+2.) **Scope of the Project**
 
-This project focuses only on password creation, not storing or managing passwords.
 
-3.) **Target Users**:
-This project is designed for:
+The scope of this project includes:
+- Creating a Python-based tool that generates secure passwords  
+- Allowing users to choose their desired password length  
+- Ensuring the password contains a mix of characters  
+- Validating user input  
+- Designing the project in multiple modules for clarity and future expansion  
+- Keeping the system simple so even beginners can use it  
 
-- Students who need quick strong passwords.
-- Normal users who make accounts on social media, apps, or websites.
-- Anyone who wants a secure password for personal or professional use.
-- Beginners who want to understand how random password generators work.
+The project does *not* include saving passwords, online encryption, or GUI development (but these can be added later).
 
-4.) **High-Level Features** :
-This Password Generator includes the following main features:
+3.) **Target Users**
 
-1. *User Input for Length*  
-   The user can choose how long the password should be.
 
-2. *Random Character Selection*  
-   The program automatically selects letters, numbers, and symbols.
+This project is mainly helpful for:
+- Students who want to create strong passwords  
+- Anyone who struggles to think of secure passwords  
+- Developers who want a simple command-line password generator  
+- Users who want privacy without depending on online tools  
 
-3. *Strong Password Output*  
-   The final password is strong, unique, and hard to guess.
+4.) **High-Level Features**
 
-4. *Simple Interface*  
-   Just run the Python file and enter the required length.
 
-5. *Error Handling*  
-   If the user gives invalid length, it shows a message.
+- User can input desired password length  
+- Automatic validation for minimum and maximum limits  
+- Random mixing of uppercase, lowercase, digits, and symbols  
+- Modular Python code with separate files for each function  
+- Easy to run in any environment  
+- Can be expanded into a GUI or web version in the future  
+
+# 📌 End of statement.md
